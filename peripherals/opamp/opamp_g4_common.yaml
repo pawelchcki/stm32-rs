@@ -102,7 +102,7 @@ OPAMP:
       PA7: [0, "PA7 connected to VINP input"]
       PB14: [1, "PB14 connected to VINP input"]
       PB0: [2, "PB0 connected to VINP input"]
-      PD1: [3, "PD1 connected to VINP input"]
+      PD14: [3, "PD14 connected to VINP input"]
   OPAMP2_TCMR: 
     VPS_SEL:
       PA7: [0, "PA7 connected to VINP input"]
